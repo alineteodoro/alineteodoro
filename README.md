@@ -21,7 +21,6 @@
 ## 🔨 Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="pgAdmin" height="40" src="https://www.pgadmin.org/static/docs_pgadmin4/_images/pgAdmin_logo.png">
   <img align="center" alt="VSCode" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="IntelliJ" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
