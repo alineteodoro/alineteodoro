@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=00E7F2&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Aline+👋;Welcome+to+my+GitHub+profile!" />
-</p>
-
----
-
 ## Seja bem-vindo!
 Sou a **Aline**, estudante do instituto J&F apaixonada por tecnologia, dados e desenvolvimento.  
 Estou sempre aprendendo coisas novas e explorando ferramentas modernas para construir soluções inteligentes.
@@ -46,7 +40,6 @@ Estou sempre aprendendo coisas novas e explorando ferramentas modernas para cons
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img src="https://seeklogo.com/images/D/databricks-logo-2F2F1E37DB-seeklogo.com.png" height="40"/>
-  <img src="https://seekvectors.com/storage/images/0511fa33cfd96760070d172e72843873.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" height="40"/>
 </p>
 
