@@ -45,9 +45,9 @@ Estou sempre aprendendo coisas novas e explorando ferramentas modernas para cons
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img height="40" src="https://seeklogo.com/images/D/databricks-logo.png" />
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" />
+  <img src="https://seeklogo.com/images/D/databricks-logo-2F2F1E37DB-seeklogo.com.png" height="40"/>
+  <img src="https://seekvectors.com/storage/images/0511fa33cfd96760070d172e72843873.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" height="40"/>
 </p>
 
 ---
@@ -60,23 +60,23 @@ Estou sempre aprendendo coisas novas e explorando ferramentas modernas para cons
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU-USUARIO&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alineteodoro&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alineteodoro&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineteodoro&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 # 🐍 My Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/alineteodoro/alineteodoro/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=alineteodoro&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
