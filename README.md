@@ -1,38 +1,82 @@
-## 👋🏻 Olá, me chamo Aline Teodoro
-
-- 🎓 Estudo no **Instituto J&F**, cursando **Ensino Médio integrado ao técnico em Análise e Desenvolvimento de Sistemas**
-- 💼 Atualmente sou estagiária na **Wild Fork Foods**, atuando na área de **finanças e contabilidade**, ajudando a desenvolver **soluções tecnológicas internas**
-- 💡 Gosto de gestão de projetos, análise de dados e mapeamento de projetos
-- 🔎 Sempre estou em busca de aprender coisas novas  
----
-
-## 💻 Linguagens que utilizo
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=00E7F2&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Aline+👋;Welcome+to+my+GitHub+profile!" />
+</p>
 
 ---
 
-## 🔨 Ferramentas
+## Seja bem-vindo!
+Sou a **Aline**, estudante do instituto J&F apaixonada por tecnologia, dados e desenvolvimento.  
+Estou sempre aprendendo coisas novas e explorando ferramentas modernas para construir soluções inteligentes.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="VSCode" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="IntelliJ" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Android Studio" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Databricks" height="40" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4">
-</div>
+- 💡 Interesses: Data Engineering, gestão de projetos, mapeamento de processos, dashboards e automação  
+- ✉️ Contato: www.linkedin.com/in/alinetcsilva
 
 ---
 
-## 📚 O que estou aprendendo
+# 🧰 Tech Stack
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Kotlin" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin
+## **👩🏻‍💻 Linguagens**
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</p>
+
+---
+
+## **🗄️ Banco de Dados**
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</p>
+
+---
+
+## **🛠️ Ferramentas & Plataformas**
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img height="40" src="https://seeklogo.com/images/D/databricks-logo.png" />
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" />
+</p>
+
+---
+
+# 🌐 Onde me encontrar
+<p>
+  <a href="www.linkedin.com/in/alinetcsilva"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+---
+
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU-USUARIO&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+# 🐍 My Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
