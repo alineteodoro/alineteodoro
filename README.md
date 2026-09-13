@@ -1,12 +1,3 @@
-<p align="center">
-  <img
-    width="1200"
-    height="400"
-    alt="Welcome to Line's GitHub"
-    src="https://github.com/user-attachments/assets/3271da2e-56f0-44e0-b4ce-6481ea8b0d76"
-  />
-</p>
-
 ## `aline@github:~$ whoami`
 
 <div align="center">
